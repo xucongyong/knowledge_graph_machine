@@ -19,7 +19,7 @@
 * information 相关资料
   * [awesome-knowledge-graph](https://github.com/shaoxiongji/awesome-knowledge-graph)
   * [北京知识图谱学习小组](https://github.com/memect/kg-beijing)
-
+  * [农业知识图谱(AgriKG)](https://github.com/qq547276542/Agriculture_KnowledgeGraph)
 
 
 * 知识蒸馏awesome-knowledge-distillation
