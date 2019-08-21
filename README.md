@@ -13,7 +13,19 @@
   1. 中英文名词 词频统计 (pdf->EPUB-txt)
   2. 中英文名词 NLP、词向量、word2vec、ELMo、语言模型 N-Gram LSA/word2vec/Glove/FastText/ELMo/BERT
     * 词向量训练  [100+ Chinese Word Vectors 上百种预训练中文词向量](https://github.com/Embedding/Chinese-Word-Vectors)
-* 词向量 Ngram
+* 逆向目标
+  * 1分钟1个概念，从权重最高概念名词开始。
+  * 内隐自动提取
+  * 实战身体认知
+  * 有软件自动提取
+  * 时间、环境合理
+  * 检测
+  * 卡片
+  * 最好有数据库
+  * 最好有自己的书
+  * 最好有人被你教
+  * 大脑功能全部用上
+
 
 # 西蒙学习法
   * 先统计名词词频，后学习
