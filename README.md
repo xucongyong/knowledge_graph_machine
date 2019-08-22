@@ -68,7 +68,6 @@
 
 * [awesome-nlp](https://github.com/keon/awesome-nlp)
 * [funNLP](https://github.com/fighting41love/funNLP)
-* [funNLP](https://github.com/fighting41love/funNLP)
 
 * 知识蒸馏awesome-knowledge-distillation
 
