@@ -62,6 +62,10 @@
   * [北京知识图谱学习小组](https://github.com/memect/kg-beijing)
   * [农业知识图谱(AgriKG)](https://github.com/qq547276542/Agriculture_KnowledgeGraph)
 
+* pdf to text库
+  * [ocrmypdf](https://ocrmypdf.readthedocs.io/en/latest/introduction.html)
+  * [tesseract-ocr](https://github.com/tesseract-ocr/tesseract)
+
 
 * 知识蒸馏awesome-knowledge-distillation
 
