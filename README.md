@@ -66,6 +66,9 @@
   * [ocrmypdf](https://ocrmypdf.readthedocs.io/en/latest/introduction.html)
   * [tesseract-ocr](https://github.com/tesseract-ocr/tesseract)
 
+* [awesome-nlp](https://github.com/keon/awesome-nlp)
+* [funNLP](https://github.com/fighting41love/funNLP)
+* [funNLP](https://github.com/fighting41love/funNLP)
 
 * 知识蒸馏awesome-knowledge-distillation
 
