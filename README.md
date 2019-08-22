@@ -54,7 +54,7 @@
   * 学会{{c1::奖励自己}}。辛苦工作后，不论结果好坏，好好地犒劳自己，让自己身体和心灵获得满足！
   * 最小知识卡片大法
 * [deeplearning01-02作业](https://github.com/vanxv/deeplearning101-102)
-
+* [jieba](
 
 
 * information 相关资料
